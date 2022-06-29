@@ -16,7 +16,7 @@
 
 已经进行了修复，由于设备限制，本地服务器暂时不能从外网访问。因此为博客设立了两个镜像站点，欢迎访问
 
-使用Awardspace建立，没有SSL（不够安全，但也没问题）[点我](http://leedc.atwebpages.com/ "点我")
+使用Awardspace建立，没有SSL（推荐）[点我](http://leedc.atwebpages.com/ "点我")
 
 使用InfinityFree建立，部署SSL（不太稳定，经常502）[点我](https://leedc.rf.gd/ "点我")
 
