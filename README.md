@@ -20,4 +20,4 @@
 
 使用InfinityFree建立，部署SSL（不太稳定，经常502）[点我](https://leedc.rf.gd/ "点我")
 
-至于OneIndex，暂时不能顾及了😔因此新的博文都没有文字😶
+至于OneDrive，8月份后不再续订Microsoft 365，因此暂时不能顾及了😔（因此新的博文都没有文字，课件资源库也关闭了😶）
